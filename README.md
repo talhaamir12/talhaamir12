@@ -22,22 +22,22 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/@talhaamir12" target="_blank">
+  <a href="https://youtube.com/@aiydgsigygiaydaisd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" />
   </a>
-  <a href="https://instagram.com/talhaamir12" target="_blank">
+  <a href="https://instagram.com/isuauauhdisdshug" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
   </a>
-  <a href="https://twitch.tv/talhaamir12" target="_blank">
+  <a href="https://twitch.tv/ihuadsaahui" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch" />
   </a>
-  <a href="https://discord.gg/YOURINVITE" target="_blank">
+  <a href="https://discord.gg/lollzlzlzl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
   </a>
-  <a href="mailto:YOUR.EMAIL@example.com">
+  <a href="mailto:talhaamirm@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/talhaamir12" target="_blank">
+  <a href="https://www.linkedin.com/in/talha-amir04" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
 </div>
