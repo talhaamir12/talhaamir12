@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Talha, a developer.</h2>
+<h2 align="left">Hi 👋! I'm Talha, a computer engineering student @ the University of Waterloo</h2>
 
 ###
 
